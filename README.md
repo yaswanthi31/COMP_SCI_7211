@@ -1,1 +1,1 @@
-# COMP_SCI_7211
+# COMP_SCI_7318 Deep Learning Assignment 
